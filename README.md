@@ -9,4 +9,4 @@
 4. Telah melakukan Data Preparation yang menggunakan Label Encoding pada dataset.
 5. Telah menggunakan Google Collab dan Github.
 6. Telah mengumpulkan Link pada portal E-Learning ITK.
-7. Nama repository telah menggunakan format "<NIM>_<NamaSingkat>_DM_IF-ITK".
+7. Nama repository telah menggunakan format "NIM_NamaSingkat_DM_IF-ITK".
