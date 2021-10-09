@@ -4,7 +4,8 @@
 2. Perbandingan dari kedua Classifier diatas adalah.
     <ul><li>Random Forest Classifier : 0.98 atau 98%</li>
     <li>Naive Bayes Classifier : 0.977777 atau 97.7777%</li></ul>
-   Kesimpulan yang dapat diambil adalah walaupun berbeda tipis antara Random Forest Classifier dengan Naive Bayes Classifier, namun yang akurasinya paling besar adalah Random Forest Classifier dengan tingkat akurasi 98%
+        *Random forest (RF)* adalah suatu algoritma yang digunakan pada klasifikasi data dalam jumlah yang besar. Klasifikasi random forest dilakukan melalui penggabungan pohon ( tree) dengan melakukan training pada sampel data yang dimiliki. Sedangkan, *Naïve Bayes Classifier* merupakan sebuah metoda klasifikasi yang berakar pada teorema Bayes . Metode pengklasifikasian dg menggunakan metode probabilitas dan statistik yg dikemukakan oleh ilmuwan Inggris Thomas Bayes , yaitu memprediksi peluang di masa depan berdasarkan pengalaman di masa sebelumnya sehingga dikenal sebagai Teorema Bayes .
+        Kesimpulan yang dapat diambil adalah walaupun berbeda tipis antara Random Forest Classifier dengan Naive Bayes Classifier, namun yang akurasinya paling besar adalah Random Forest Classifier dengan tingkat akurasi 98%
 3. Jumlah data yang digunakan adalah 100 dari 150 data.
 4. Telah melakukan Data Preparation yang menggunakan Label Encoding pada dataset.
 5. Telah menggunakan Google Collab dan Github.
